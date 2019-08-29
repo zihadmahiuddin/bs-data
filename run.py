@@ -47,7 +47,7 @@ if __name__ == '__main__':
         with open('config.yml', encoding='utf-8') as f:
             config = yaml.load(f)
     except FileNotFoundError:
-        config = {'id': []}
+        config = {'id': [], 'scId': []}
 
     if config.get('asset_url'):
         # update assets

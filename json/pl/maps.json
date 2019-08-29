@@ -1,5 +1,5 @@
 {
-    "Bankheist_1":[
+    "Bankheist_1": [
         "..RR....2.2.2....RR..",
         "..RR.............RR..",
         "NNNN.............NNNN",
@@ -34,7 +34,7 @@
         "..RR.............RR..",
         "..RR....1.1.1....RR.."
     ],
-    "Bankheist_10":[
+    "Bankheist_10": [
         "........2.2.2........",
         ".....................",
         ".....................",
@@ -69,7 +69,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Bankheist_11":[
+    "Bankheist_11": [
         "........2.2.2........",
         ".....................",
         ".............N....T..",
@@ -104,7 +104,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Bankheist_12":[
+    "Bankheist_12": [
         "CCRR....2.2.2...RRRYY",
         "CRRR............RRRRC",
         "RRRR............RRRRC",
@@ -139,7 +139,7 @@
         "CRRRR............RRRC",
         "YYRRR...1.1.1....RRCC"
     ],
-    "Bankheist_13":[
+    "Bankheist_13": [
         "........2.2.2........",
         ".....................",
         "..............RR.....",
@@ -174,7 +174,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Bankheist_14":[
+    "Bankheist_14": [
         "RR......2.2.2......RR",
         "RR.................RR",
         "NNN...............NNN",
@@ -209,7 +209,7 @@
         "RR.................RR",
         "RR......1.1.1......RR"
     ],
-    "Bankheist_15":[
+    "Bankheist_15": [
         "...........MMRRRR....",
         ".2.2.2.....MMRR......",
         "...........T.........",
@@ -244,7 +244,7 @@
         "......RRMM.....1.1.1.",
         "....RRRRMM..........."
     ],
-    "Bankheist_16":[
+    "Bankheist_16": [
         "YRRRR...2.2.2...RRRRY",
         "CRRR.............RRRC",
         "RRRMM...........MMRRR",
@@ -279,7 +279,7 @@
         "CRRR.............RRRC",
         "YRRRR...1.1.1...RRRRY"
     ],
-    "Bankheist_17":[
+    "Bankheist_17": [
         "MMMMRR..2.2.2..RRMMMM",
         "M..RRR.........RRR.TM",
         "M.RRRR.........RRRR.M",
@@ -314,7 +314,42 @@
         "MT.RRR.........RRR..M",
         "MMMMRR..1.1.1..RRMMMM"
     ],
-    "Bankheist_2":[
+    "Bankheist_18": [
+        "........2.2.2......RR",
+        "...................RR",
+        "MMM...........EX...RR",
+        "MT............EX...RR",
+        "M.........8.......NRR",
+        "...RRXA...........NCC",
+        "...RRXA...........NNN",
+        "....RR...............",
+        "..........XMMM.......",
+        "R........RRRRMMM.....",
+        "R...MMRRRRRRRCC......",
+        "RR..MMRRRRRR........M",
+        "RR...MXXX.......RRRRM",
+        "RR....AA.......RRRRMM",
+        "XX.............RMMMMM",
+        "XX...................",
+        ".....................",
+        "...................XX",
+        "MMMMMR.............XX",
+        "MMRRRR.......EE....RR",
+        "MRRRR.......XXXM...RR",
+        "M........RRRRRRMM..RR",
+        "......CCRRRRRRRMM...R",
+        ".....MMMRRRR........R",
+        ".......MMMX..........",
+        "...............RR....",
+        "NNN...........EXRR...",
+        "CCN...........EXRR...",
+        "RRN.......8.........M",
+        "RR...XA............TM",
+        "RR...XA...........MMM",
+        "RR...................",
+        "RR......1.1.1........"
+    ],
+    "Bankheist_2": [
         "........2.2.2...MCC..",
         "................MCC..",
         "..MMM...........MMM..",
@@ -349,7 +384,7 @@
         "..CCM................",
         "..CCM...1.1.1........"
     ],
-    "Bankheist_3":[
+    "Bankheist_3": [
         "........2.2.2........",
         ".....................",
         "MMMMM...........MMM..",
@@ -384,7 +419,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Bankheist_4":[
+    "Bankheist_4": [
         "........2.2.2........",
         "..RRR...........RRR..",
         "..RRR...........RRR..",
@@ -419,7 +454,7 @@
         "..RRR...........RRR..",
         "........1.1.1........"
     ],
-    "Bankheist_5":[
+    "Bankheist_5": [
         "........2.2.2........",
         ".....................",
         "..RRR...........RRR..",
@@ -454,7 +489,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Bankheist_6":[
+    "Bankheist_6": [
         "........2.2.2........",
         "..................D..",
         "..NNNN.........NNNN..",
@@ -489,7 +524,7 @@
         "...............D.....",
         "........1.1.1........"
     ],
-    "Bankheist_7":[
+    "Bankheist_7": [
         "........2.2.2........",
         ".....................",
         "........R...RY.......",
@@ -524,42 +559,42 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Bankheist_8":[
+    "Bankheist_8": [
         "..YYC...2.2.2.RRRRRRR",
         "..RR...........RRRRRR",
-        "..RR..D..........DRRR",
-        "M................D..M",
+        "..RR..............RRR",
+        "M...................M",
         "MMM.......8.......MMM",
-        "..C.............D.Y..",
+        "..C...............Y..",
         "..C...............C..",
         "..Y................RR",
         "......M........M...RR",
-        "...D..M.......RM..D..",
-        "RR...MM..D...RRM..M..",
-        "RR....M.DD..RRRM..M..",
+        "......M.......RM.....",
+        "RR...MM......RRM..M..",
+        "RR....M.....RRRM..M..",
         "MMM........RRRRM..M..",
         "..RR......RRRR....MRR",
         "..RR...M..RRM.....MRR",
-        "......MMMRRRMMD...M..",
+        "......MMMRRRMM....M..",
         "..M..MMMMRRRMMMM..M..",
-        "..M...DMMRRRMMM......",
+        "..M....MMRRRMMM......",
         "RRM.....MRR..M...RR..",
         "RRM....RRRR......RR..",
         "..M..MRRRR........MMM",
-        "..M..MRRR..DD.M....RR",
-        "..M..MRR...D..MM...RR",
-        "..D..MR.......M..D...",
+        "..M..MRRR.....M....RR",
+        "..M..MRR......MM...RR",
+        ".....MR.......M......",
         "RR...M........M......",
         "RR................Y..",
         "..C...............C..",
-        "..Y.D.............C..",
+        "..Y...............C..",
         "MMM.......8.......MMM",
-        "M..D................M",
-        "RRRD..........D..RR..",
+        "M...................M",
+        "RRR..............RR..",
         "RRRRRR...........RR..",
         "RRRRRRR.1.1.1...CYY.."
     ],
-    "Bankheist_9":[
+    "Bankheist_9": [
         "........2.2.2........",
         ".....................",
         ".....................",
@@ -594,7 +629,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Biggame_1":[
+    "Biggame_1": [
         "MMMMMMMMMMMMFFFMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
         "MMMMMMMMMMMMFFFMMMMMM...MMMMMMMMMMMMMMMMMMMMMMWWWWMMMMMMMMMM",
         "..MMMMMMMMMMFFFMM........MMMMMMMMMMMMMMMMMMWWWWWWWWWWMMMMMMM",
@@ -656,7 +691,7 @@
         "MMMMMMMMMMMMMM..MMMMMMMMMMMMMMMMMMMM...MMMMMMFFFMMMMMMMMMMMM",
         "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMFFFMMMMMMMMMMMM"
     ],
-    "Biggame_2":[
+    "Biggame_2": [
         "MMMM.......MMMMMYYC........RRWW....RRMMM..WWM.....MMMMMMMMMM",
         "MMMM.........MMMC..........RRWW....RRMMM..WWM.....RRRMMMMMMM",
         "MMM............M......RRW..WWWW....RMMMR..WWW.........MMMRRR",
@@ -718,7 +753,7 @@
         "MMMMMMMRRR.....MWW..MMMRR....WWRR..........CMMM.........MMMM",
         "MMMMMMMMMM.....MWW..MMMRR....WWRR........CYYMMMMM.......MMMM"
     ],
-    "BossFight_1":[
+    "BossFight_1": [
         "..RR.............RR..",
         "..RR.............RR..",
         "MMMM......2......MMMM",
@@ -753,7 +788,7 @@
         "YY.................CC",
         "YYC...1.1.1.1.1...CCY"
     ],
-    "BossFight_2":[
+    "BossFight_2": [
         ".....................",
         ".....................",
         "..........MMMM.......",
@@ -788,7 +823,7 @@
         "YY.................CC",
         "YYC...1.1.1.1.1...CCY"
     ],
-    "BossFight_3":[
+    "BossFight_3": [
         "M.D.......D...D...D.M",
         "M...D..D............M",
         "MM.....M..2..M..D..MM",
@@ -823,7 +858,7 @@
         "MBB....D..........BBM",
         "MBBB..1.1.1.1.1..BBBM"
     ],
-    "BossFight_4":[
+    "BossFight_4": [
         "RR.................RR",
         "RR.................RR",
         ".....CC...2...CC.....",
@@ -858,7 +893,7 @@
         "RRRRR...........RRRRR",
         "RRRRR.1.1.1.1.1.RRRRR"
     ],
-    "CRoyale":[
+    "CRoyale": [
         "CC......2.2.2.....CCT",
         "........RRRRR.......C",
         "RRRRRRRRRRRRRRRRRRRRR",
@@ -893,7 +928,7 @@
         "C.......RRRRR........",
         "TCC.....1.1.1......CC"
     ],
-    "Coop_1":[
+    "Coop_1": [
         "........I........",
         "........I........",
         "....T...I........",
@@ -928,7 +963,7 @@
         "III....1.1....III",
         "III...........III"
     ],
-    "Coop_2":[
+    "Coop_2": [
         "...I.........I...",
         "...I.........I...",
         "...I.........I...",
@@ -963,7 +998,7 @@
         "III....1.1....III",
         "III...........III"
     ],
-    "Coop_3":[
+    "Coop_3": [
         "FFFFFFFFFFFF................................................",
         "FFFFFFFFFFF.................................................",
         "FFFFFFFFF....MM...........MM......................MMM.......",
@@ -1025,7 +1060,7 @@
         "..........................FFFF..............................",
         "............................................................"
     ],
-    "Coop_4":[
+    "Coop_4": [
         "MMMMMMM..MMMMMMMMMMMMMMMMMM..MMMMMMM..MMMMMMMMMMMMMMMMMMMMMM",
         "M........M................M.....M.............M............M",
         "M........M................M.....M.............M............M",
@@ -1087,7 +1122,7 @@
         "M......M..MM..MM..MM..M.....M.........M..M..........MM..M..M",
         "MMMMMMMM..MM..MM..MM..MMMMMMMMMMMMMMMMM..MMMMMMMMMMMMMMMMMMM"
     ],
-    "Gemgrab_1":[
+    "Gemgrab_1": [
         "CC......2.2.2......CC",
         "CC.................CC",
         "CC...................",
@@ -1122,7 +1157,7 @@
         "CC.................CC",
         "CC......1.1.1......CC"
     ],
-    "Gemgrab_10":[
+    "Gemgrab_10": [
         "........2.2.2........",
         "...............RR....",
         "..MM...........RR....",
@@ -1157,7 +1192,7 @@
         "....RR...............",
         "........1.1.1........"
     ],
-    "Gemgrab_11":[
+    "Gemgrab_11": [
         "........2.2.2........",
         ".....................",
         ".....................",
@@ -1192,7 +1227,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Gemgrab_12":[
+    "Gemgrab_12": [
         "YYY.....2.2.2.....RRR",
         "YY.................RR",
         "Y...................R",
@@ -1227,7 +1262,7 @@
         "YY.................RR",
         "YYY.....1.1.1.....RRR"
     ],
-    "Gemgrab_13":[
+    "Gemgrab_13": [
         "......RR2.2.2RR......",
         "......RR.....RR......",
         "RRRR.............RRRR",
@@ -1262,7 +1297,7 @@
         "......RR.....RR......",
         "......RR1.1.1RR......"
     ],
-    "Gemgrab_14":[
+    "Gemgrab_14": [
         "CC......2.2.2......CC",
         "CC.................CC",
         "CC...................",
@@ -1297,7 +1332,7 @@
         "CC.................CC",
         "CC......1.1.1......CC"
     ],
-    "Gemgrab_15":[
+    "Gemgrab_15": [
         "XMRRR...2.2.2...MWWRR",
         "MMRRR...........XWWRR",
         "WWWWR....RR..........",
@@ -1332,7 +1367,7 @@
         "RRWWX...........RRRMM",
         "RRWWM...1.1.1...RRRMX"
     ],
-    "Gemgrab_16":[
+    "Gemgrab_16": [
         "CC......2.2.2....RRRX",
         "CC................RRX",
         "........RR..........T",
@@ -1367,7 +1402,7 @@
         "XRR................CC",
         "XRRR....1.1.1......CC"
     ],
-    "Gemgrab_17":[
+    "Gemgrab_17": [
         "CC......2.2.2........",
         "CC...................",
         "...............RRRR..",
@@ -1402,7 +1437,7 @@
         "...................CC",
         "........1.1.1......CC"
     ],
-    "Gemgrab_18":[
+    "Gemgrab_18": [
         ".RRR....2.2.2...RRMR.",
         "..............D.RRMR.",
         "................RRRR.",
@@ -1437,7 +1472,7 @@
         ".RMRR.D..............",
         ".RMRR...1.1.1....RRR."
     ],
-    "Gemgrab_19":[
+    "Gemgrab_19": [
         "YYC.....2.2.2.....CYY",
         "YC.................CY",
         ".....................",
@@ -1472,7 +1507,7 @@
         "YC.................CY",
         "YYC.....1.1.1.....CYY"
     ],
-    "Gemgrab_19_train_0":[
+    "Gemgrab_19_train_0": [
         ".....................",
         ".....................",
         ".....................",
@@ -1507,7 +1542,7 @@
         ".....................",
         "....................."
     ],
-    "Gemgrab_19_train_1":[
+    "Gemgrab_19_train_1": [
         ".....................",
         ".....................",
         ".....................",
@@ -1542,7 +1577,7 @@
         ".....................",
         "....................."
     ],
-    "Gemgrab_2":[
+    "Gemgrab_2": [
         "RR..CYY.2.2.2.YY.RRRR",
         "RR................RRR",
         "RRR...............RRR",
@@ -1577,7 +1612,7 @@
         "RRR................RR",
         "RRRR.YY.1.1.1.YYC..RR"
     ],
-    "Gemgrab_20":[
+    "Gemgrab_20": [
         "........2.2.2...CYY..",
         "................CYY..",
         "..XX.................",
@@ -1612,7 +1647,7 @@
         "..YYC................",
         "..YYC...1.1.1........"
     ],
-    "Gemgrab_21":[
+    "Gemgrab_21": [
         "WWNNNC..2.2.2...RRRMM",
         "WWRRR...........RRRMM",
         "WWRRR..............CC",
@@ -1647,7 +1682,7 @@
         "MMRRR...........RRRWW",
         "MMRRR...1.1.1..CNNNWW"
     ],
-    "Gemgrab_22":[
+    "Gemgrab_22": [
         "........2.2.2....RRRR",
         "..................RRR",
         "....................R",
@@ -1682,7 +1717,7 @@
         "RRR..................",
         "RRRR....1.1.1........"
     ],
-    "Gemgrab_23":[
+    "Gemgrab_23": [
         "MMX.....2.2.2...MMMRR",
         "X................MXRR",
         "....RRX..............",
@@ -1717,7 +1752,42 @@
         "RRXM................X",
         "RRMMM...1.1.1.....XMM"
     ],
-    "Gemgrab_3":[
+    "Gemgrab_24": [
+        "........2.2.2....RRXX",
+        "..RR.............RRXX",
+        "..RRR.............RRR",
+        "..CCRR...XXX.......RR",
+        "..CCRR...............",
+        "..............CC.....",
+        "..............CC.....",
+        ".......MMM...........",
+        ".....RRRRM...RR......",
+        ".....RRRR....RR......",
+        "MM..........XRRRRRRRR",
+        "MM..........MRRRRRRCC",
+        "....RRX.....MM.......",
+        "....RRX..............",
+        "RRRRRRRR.............",
+        "RRRRRRRR...........RR",
+        "RRXX.............XXRR",
+        "RR...........RRRRRRRR",
+        ".............RRRRRRRR",
+        "..............XRR....",
+        ".......MM.....XRR....",
+        "CCRRRRRRM..........MM",
+        "RRRRRRRRX..........MM",
+        "......RR....RRRR.....",
+        "......RR...MRRRR.....",
+        "...........MMM.......",
+        ".....CC..............",
+        ".....CC..............",
+        "...............RRCC..",
+        "RR.......XXX...RRCC..",
+        "RRR.............RRR..",
+        "XXRR.............RR..",
+        "XXRR....1.1.1........"
+    ],
+    "Gemgrab_3": [
         "RRXR....2.2.2....RTRR",
         "RRXR.............RRRR",
         "RRRR.................",
@@ -1752,7 +1822,7 @@
         "RRRR.............RXRR",
         "RRTR....1.1.1....RXRR"
     ],
-    "Gemgrab_4":[
+    "Gemgrab_4": [
         "........2.2.2......XX",
         ".RR..............RRRX",
         ".RR..............RRR.",
@@ -1787,7 +1857,7 @@
         "XRRR..............RR.",
         "XX......1.1.1........"
     ],
-    "Gemgrab_4_LNY":[
+    "Gemgrab_4_LNY": [
         "........2.2.2......TT",
         ".RR..............RRRT",
         ".RR..............RRR.",
@@ -1822,7 +1892,7 @@
         "TRRR..............RR.",
         "TT......1.1.1........"
     ],
-    "Gemgrab_5":[
+    "Gemgrab_5": [
         "...RR...2.2.2........",
         "...RR...........RR...",
         "................RR...",
@@ -1857,7 +1927,7 @@
         "...RR...........RR...",
         "........1.1.1...RR..."
     ],
-    "Gemgrab_5_LNY":[
+    "Gemgrab_5_LNY": [
         "...RR...2.2.2........",
         "...RR...........RR...",
         "................RR...",
@@ -1892,7 +1962,7 @@
         "...RR...........RR...",
         "........1.1.1...RR..."
     ],
-    "Gemgrab_6":[
+    "Gemgrab_6": [
         "......2.2.2......",
         ".................",
         ".................",
@@ -1927,7 +1997,7 @@
         ".................",
         "......1.1.1......"
     ],
-    "Gemgrab_7":[
+    "Gemgrab_7": [
         "RRR.....2.2.2.....RRR",
         "RRR...............RRR",
         "RR.................RR",
@@ -1962,7 +2032,7 @@
         "RRR...............RRR",
         "RRR.....1.1.1.....RRR"
     ],
-    "Gemgrab_8":[
+    "Gemgrab_8": [
         "FFFFF.2.2.2.FFFFF",
         "FFFFF.......FFFFF",
         "FFFFFFFFFFFFFFFFF",
@@ -1997,7 +2067,7 @@
         "FFFFF.......FFFFF",
         "FFFFF.1.1.1.FFFFF"
     ],
-    "Gemgrab_9":[
+    "Gemgrab_9": [
         "........2.2.2........",
         ".....................",
         "..NNNN.........NNNN..",
@@ -2032,13 +2102,13 @@
         ".....................",
         "........1.1.1........"
     ],
-    "GeneratedRobo":[
+    "GeneratedRobo": [
         "roboleft,0,roboright,0",
         "roboleft,0,roboright,0",
         "roboleft,0,roboright,0",
         "spawnroboleft,0,spawnroboright,0"
     ],
-    "Laserball_1":[
+    "Laserball_1": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2073,7 +2143,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_10":[
+    "Laserball_10": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2108,7 +2178,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_11":[
+    "Laserball_11": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2143,7 +2213,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_12":[
+    "Laserball_12": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2178,7 +2248,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_13":[
+    "Laserball_13": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2213,7 +2283,182 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_2":[
+    "Laserball_14": [
+        "JJJJJJJ.7.7.7.JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJYY...YYJJJJJJJ",
+        ".....................",
+        ".....................",
+        ".....................",
+        "....RRRYYYYYYYRRR....",
+        "...RRRRR.....RRRRR...",
+        "..CRR...2.2.2...RRC..",
+        "..YY.............YY..",
+        "..YY...YRRRRRY...YY..",
+        ".......YRRRRRY.......",
+        ".....................",
+        ".RR..................",
+        ".RRYY...........RRRR.",
+        ".RRYY...........YYRR.",
+        ".RRRR...........YYRR.",
+        "..................RR.",
+        ".....................",
+        ".......YRRRRRY.......",
+        "..YY...YRRRRRY...YY..",
+        "..YY.............YY..",
+        "..CRR...1.1.1...RRC..",
+        "...RRRRR.....RRRRR...",
+        "....RRRYYYYYYYRRR....",
+        ".....................",
+        ".....................",
+        ".....................",
+        "JJJJJJJYY...YYJJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.6.6.6.JJJJJJJ"
+    ],
+    "Laserball_15": [
+        "JJJJJJJ.7.7.7.JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJYY...YYJJJJJJJ",
+        ".....................",
+        "...RRR...RRR...RRR...",
+        "...RRR...RRR...RRR...",
+        "...N....CNNNC....N...",
+        "...N.............N...",
+        "...N.RR.......RR.N...",
+        "..RRRRR.2.2.2.RRRRR..",
+        "..RRR...........RRR..",
+        "............YYY......",
+        "..................Y..",
+        ".......RR.........Y..",
+        ".......RY.........Y..",
+        "..YY...RY...YR...YY..",
+        "..Y.........YR.......",
+        "..Y.........RR.......",
+        "..Y..................",
+        "......YYY............",
+        "..RRR...........RRR..",
+        "..RRRRR.1.1.1.RRRRR..",
+        "...N.RR.......RR.N...",
+        "...N.............N...",
+        "...N....CNNNC....N...",
+        "...RRR...RRR...RRR...",
+        "...RRR...RRR...RRR...",
+        ".....................",
+        "JJJJJJJYY...YYJJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.6.6.6.JJJJJJJ"
+    ],
+    "Laserball_16": [
+        "JJJJJJJ.7.7.7.JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJYY...YYJJJJJJJ",
+        "..................RRR",
+        "..................RRR",
+        "......YYYYYY.........",
+        ".........YYYYYY......",
+        "........2.2.2........",
+        "..RRRR...............",
+        "..RRYYY..............",
+        "RRRR.....RRRRR.......",
+        ".........RRYYY...RRCC",
+        ".........RR......RR..",
+        ".................RR..",
+        "................CRR..",
+        "..NNN...........NNN..",
+        "..RRC................",
+        "..RR.................",
+        "..RR......RR.........",
+        "CCRR...YYYRR.........",
+        ".......RRRRR.....RRRR",
+        "..............YYYRR..",
+        "........1.1.1..RRRR..",
+        ".....................",
+        "......YYYYYY.........",
+        ".........YYYYYY......",
+        "RRR..................",
+        "RRR..................",
+        "JJJJJJJYY...YYJJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.6.6.6.JJJJJJJ"
+    ],
+    "Laserball_17": [
+        "JJJJJJJ.7.7.7.JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJYY...YYJJJJJJJ",
+        "RRRRRRRR.....RRRRRRRR",
+        "RRRRRR..........RRRRR",
+        "RRRR..NNN..RNNN...RRR",
+        "RRR...RRR..RRRR....YY",
+        "RRR...RR...........RR",
+        "RRRRCC........CCC..RR",
+        "RRRCC...........CC.RR",
+        "RRRRR...2.2.2......RR",
+        "RRRR..............RRR",
+        "RR....RRRRRR....RRRRR",
+        "CCC...RNNNN.....RRRRR",
+        "RRCC..RY.........RRRR",
+        "RRRR.............RRRR",
+        "RRRR.........YR..CCRR",
+        "RRRRR.....NNNNR...CCC",
+        "RRRRR....RRRRRR....RR",
+        "RRR..............RRRR",
+        "RR......1.1.1...RRRRR",
+        "RR.CC...........CCRRR",
+        "RR..CCC........CCRRRR",
+        "RR...........RR...RRR",
+        "YY....RRRR..RRR...RRR",
+        "RRR...NNNR..NNN..RRRR",
+        "RRRRR..........RRRRRR",
+        "RRRRRRRR.....RRRRRRRR",
+        "JJJJJJJYY...YYJJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.6.6.6.JJJJJJJ"
+    ],
+    "Laserball_18": [
+        "JJJJJJJ.7.7.7.JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJYY...YYJJJJJJJ",
+        "RRRRR................",
+        "RRR..................",
+        ".......YYNNNYY.......",
+        "..YC......C.......YYY",
+        "..Y...............RRC",
+        "........2.2.2.....RRR",
+        "....................R",
+        "...YYRRRY...YRRRYY...",
+        "...CRRRRY...YRRRCYY..",
+        ".....................",
+        ".....................",
+        "RR.............RRRRCY",
+        "RRRRYYY.......YYYRRRR",
+        "YCRRRR.............RR",
+        ".....................",
+        ".....................",
+        "..YYCRRRY...YRRRRC...",
+        "...YYRRRY...YRRRYY...",
+        "R....................",
+        "RRR.....2.2.2........",
+        "CRR...............Y..",
+        "YYY.......C......CY..",
+        ".......YYNNNYY.......",
+        "..................RRR",
+        "................RRRRR",
+        "JJJJJJJYY...YYJJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.......JJJJJJJ",
+        "JJJJJJJ.6.6.6.JJJJJJJ"
+    ],
+    "Laserball_2": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2248,7 +2493,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_3":[
+    "Laserball_3": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2283,7 +2528,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_4":[
+    "Laserball_4": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2318,7 +2563,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_6":[
+    "Laserball_6": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2353,7 +2598,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_7":[
+    "Laserball_7": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2388,7 +2633,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_8":[
+    "Laserball_8": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2423,7 +2668,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Laserball_9":[
+    "Laserball_9": [
         "JJJJJJJ.7.7.7.JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.......JJJJJJJ",
@@ -2458,7 +2703,7 @@
         "JJJJJJJ.......JJJJJJJ",
         "JJJJJJJ.6.6.6.JJJJJJJ"
     ],
-    "Raid_1":[
+    "Raid_1": [
         "..............MMM....................MMMM...................",
         "...............M.......................MM...................",
         "..XXXM...XMM.......MXX....MM....MXX........X.....XX......X..",
@@ -2520,7 +2765,7 @@
         "M.................MM........................................",
         "MM................MM........................................"
     ],
-    "Raid_2":[
+    "Raid_2": [
         "............................................................",
         "............................................................",
         "......MMM..................MM.........MM................M...",
@@ -2582,7 +2827,7 @@
         "............................................................",
         "............................................................"
     ],
-    "Raid_3":[
+    "Raid_3": [
         "WWWWWWWWWWMMMMMMMMMMMMYYY....YYMMMMMMMMMMMMMMM........MMMMMM",
         "WWWWW.....MMMMMMMMMMMMY........MMMMMMMMMMMMMM...........MMMM",
         "WWW........MMMMMMMMMM...........MMMMMMMMMMMMM....D........MM",
@@ -2644,7 +2889,7 @@
         "WWW...MM...........T.....MM...MMMM......B..D.MMMM...D..WWWWW",
         "WWWWMMMMM..............MMMMMMMMMMMMMMMM.....MMMMMMMM..WWWWWW"
     ],
-    "Raid_4":[
+    "Raid_4": [
         "............................................................",
         "............................................................",
         ".............T.........T....................................",
@@ -2706,7 +2951,7 @@
         "............................................................",
         "............................................................"
     ],
-    "Siege_1":[
+    "Siege_1": [
         "YY.........2.2.2.........YY",
         "C.........................C",
         "..........D...D............",
@@ -2747,7 +2992,7 @@
         "C.........................C",
         "YY.........1.1.1.........YY"
     ],
-    "Siege_10":[
+    "Siege_10": [
         "MMMM.......2.2.2.......MMMM",
         "MM.......................MM",
         "M.....MMMT.......TMMM.....M",
@@ -2788,7 +3033,7 @@
         "MM.......................MM",
         "MMMM.......1.1.1.......MMMM"
     ],
-    "Siege_2":[
+    "Siege_2": [
         "...YY......2.2.2......YY...",
         "...YY.................YY...",
         "...YC...Y.........Y...CY...",
@@ -2829,7 +3074,7 @@
         "...YY.................YY...",
         "...YY......1.1.1......YY..."
     ],
-    "Siege_3":[
+    "Siege_3": [
         "...........2.2.2.....CC....",
         ".....................CC....",
         "..C...................C....",
@@ -2870,7 +3115,7 @@
         "....CC.....................",
         "....CC.....1.1.1..........."
     ],
-    "Siege_4":[
+    "Siege_4": [
         "......MMR..2.2.2..RMM......",
         "......MMR.........RMM......",
         ".....MMRR.........RRMM.....",
@@ -2911,7 +3156,7 @@
         "......MMR.........RMM......",
         "......MMR..1.1.1..RMM......"
     ],
-    "Siege_5":[
+    "Siege_5": [
         "....YY.....2.2.2....YYC....",
         "....YY..............YYC....",
         "...........................",
@@ -2952,7 +3197,7 @@
         "....CYY..............YY....",
         "....CYY....1.1.1.....YY...."
     ],
-    "Siege_6":[
+    "Siege_6": [
         "CC.........2.2.2........CYY",
         "........................CYY",
         "....................YY.....",
@@ -2993,7 +3238,7 @@
         "YYC........................",
         "YYC........1.1.1.........CC"
     ],
-    "Siege_7":[
+    "Siege_7": [
         "......MM...2.2.2...MMM.....",
         "......MM...........MMM.....",
         "......MM...........T.......",
@@ -3034,7 +3279,7 @@
         ".....MMM...........MM......",
         ".....MMM...1.1.1...MM......"
     ],
-    "Siege_8":[
+    "Siege_8": [
         "YY....CYY..2.2.2..YYC....YY",
         "YC.....YY.........YY.....CY",
         "...........................",
@@ -3075,7 +3320,7 @@
         "YC.....YY.........YY.....CY",
         "YY....CYY..1.1.1..YYC....YY"
     ],
-    "Siege_9":[
+    "Siege_9": [
         "CC.........2.2.2........WWW",
         "CC......................WWW",
         ".........................WW",
@@ -3116,7 +3361,7 @@
         "WWW......................CC",
         "WWW........1.1.1.........CC"
     ],
-    "Survival_1":[
+    "Survival_1": [
         "........FF..F......1.FF..FFF..........1FF..........FFF......",
         "FF...FF...............F..FF.....FF.....FF..........FFF......",
         "F...FFFFFF........MM.....FF.....FFFFF...FF........FFF.....FF",
@@ -3178,7 +3423,7 @@
         "F.......MM..MMFFMM..MM..MM..MM.FFF.................FFF.FF...",
         "........MM..MMFFMM..MM..MM..MMFFF.1....BB.......MM..FF.FF..."
     ],
-    "Survival_10":[
+    "Survival_10": [
         "WWWWWWWWWWMMMMMMMMMMMMYYY....YYMMMMMMMMMMMMMMM........MMMMMM",
         "WWWWWWWWWWMMMMMMMMMMMMY........MMMMMMMMMMMMMM...........MMMM",
         "WWW........MMMMMMMMMM.......4...MMMMMMMMMMMMM....D...4....MM",
@@ -3240,7 +3485,7 @@
         "WWWW..MMFF..FFF.......FFFMMFFFMMMMFF.......D.MMMMF..DWWWWWWW",
         "WWWWMMMMMFFFFFFFF...FFFMMMMMMMMMMMMMMMM.....MMMMMMM..WWWWWWW"
     ],
-    "Survival_12":[
+    "Survival_12": [
         "FFFFFFFF..........D...1FFWWWW..WWWFF.1.......D.......FFFFFFF",
         "FF.4FFFFFF.....FF......FFWWWW..WWFF................FFFFF4.FF",
         "FF4.FFFWWWWD...FFF......D...............T...WWW....WWFFF.4FF",
@@ -3302,7 +3547,7 @@
         "FF.4FFFFFF...............FFWW..WWWWFF...D..FF.....FFFFFFF4.F",
         "FFFFFFFF........D.....1.FFFWW..WWWWFF1..............FFFFFFFF"
     ],
-    "Survival_13":[
+    "Survival_13": [
         "..FFFFFFFFFFFFFFF....FFFFFFFFFFFFFFF.....FFFFFFFFFFFFFFFFFFF",
         ".FFFFFFFFFFFFFFFF..1.FFFFFFFFFFFFFFF.212.FFFFFFFFFFFFFFFFFFF",
         "FFFFFFFFFFFFF........FFFFFFFFFFFFFFF............FFFFFFFFFFFF",
@@ -3364,7 +3609,7 @@
         "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF...",
         "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF...."
     ],
-    "Survival_14":[
+    "Survival_14": [
         "RRR......RRRRR.....RRYR............RTR....RRRRRRRRRRRRRRRRRR",
         "RR........RRR.......RRR...R........RRR......RRRRRRRRRRRRRRRR",
         "R4........RR..............RR.................CMMMMMMMC.RRRRR",
@@ -3426,7 +3671,7 @@
         "RR.....RRRR.........MRRR.....CR..........RM..............RRR",
         "RRRRTRRRRRRR.....T..MMMRRRR..YRR.......TRRMR....T......RRRRR"
     ],
-    "Survival_15":[
+    "Survival_15": [
         "MMFFFFFFMMFFFFFFFFFFFFFFFFFFFYYFFFFFFFFFFFFFFFFFFFMMFFFFFFMM",
         "MMFFFFFFMMFFFFFFFFFFFFFFFFFFFYYFFFFFFFFFFFFFFFFFFFMMFFFFFFMM",
         "FF..................1.....FF.2.2FF.....1..................FF",
@@ -3488,7 +3733,7 @@
         "MMFFFFFFMMFFFFFFFFFFFFFFFFFFFYYFFFFFFFFFFFFFFFFFFFMMFFFFFFMM",
         "MMFFFFFFMMFFFFFFFFFFFFFFFFFFFYYFFFFFFFFFFFFFFFFFFFMMFFFFFFMM"
     ],
-    "Survival_16":[
+    "Survival_16": [
         "WWWWWWWMMMFF........D......MMMMMMMF...............MMMWWWWWWW",
         "WWWWWWMM4...................MMMMMFF....1...........4MMWWWWWW",
         "WWWWWMMM......212....FM......MMMFF..................MMMWWWWW",
@@ -3550,7 +3795,7 @@
         "WWWWWWMM4.......W......FFMMMFFFFMMM....D...........4MMWWWWWW",
         "WWWWWWWMMM....TWWWT....MMMMMMMFFMMMMMMM...........MMMWWWWWWW"
     ],
-    "Survival_17":[
+    "Survival_17": [
         "MMMM.......MMMMMYYC........RRWW....RRMMM..WWM.....MMMMMMMMMM",
         "MMMM...4.....MMMC..........RRWW....RRMMM..WWM.....RRRMMMMMMM",
         "MMM............M...1..RRW..WWWW....RMMMR..WWW.212.....MMMRRR",
@@ -3612,7 +3857,7 @@
         "MMMMMMMRRR.....MWW..MMMRR....WWRR..........CMMM.....4...MMMM",
         "MMMMMMMMMM.....MWW..MMMRR....WWRR........CYYMMMMM.......MMMM"
     ],
-    "Survival_18":[
+    "Survival_18": [
         "MMMMMMMMMMMMFFFMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
         "MMMMMMMMMMMMFFFMMMMMM...MMMMMMMMMMMMMMMMMMMMMMWWWWMMMMMMMMMM",
         "..MMMMMMMMMMFFFMM........MMMMMMMMMMMMMMMMMMWWWWWWWWWWMMMMMMM",
@@ -3674,7 +3919,7 @@
         "MMMMMMMMMMMMMM..MMMMMMMMMMMMMMMMMMMM...MMMMMMFFFMMMMMMMMMMMM",
         "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMFFFMMMMMMMMMMMM"
     ],
-    "Survival_19":[
+    "Survival_19": [
         "WWWWWWWWWWWWWWWWWNNNNNRRRRRRRRRRRRRRRRNNNNNWWWWWWWWWWWWWWWWW",
         "W.........TWWWWWWYRRRRRRRRRRRRRRRRRRRRRRRRYWWWWWWT.........W",
         "W............................44............................W",
@@ -3736,7 +3981,7 @@
         "W.........TWWWWWWYRRRRRRRRRRRRRRRRRRRRRRRRYWWWWWWT.........W",
         "WWWWWWWWWWWWWWWWWNNNNNRRRRRRRRRRRRRRRRNNNNNWWWWWWWWWWWWWWWWW"
     ],
-    "Survival_2":[
+    "Survival_2": [
         "FFFFFWWWFFFFFFFMWWWWWWWWWFFFFFFFFFFWWWWWWWWWMFFFFFFFFFTWWWWW",
         "FFFF..WWF.....FMWWWFFF................FFFWWWMF...D......WWWW",
         "FF4....T...C..FMWWFF.......M.D..M.......FFWWMF.....DD.D..4WW",
@@ -3798,7 +4043,7 @@
         "WWWW......D...FMWWWFFF................FFFWWWMF.....FWW..FFFF",
         "WWWWWTFFFFFFFFFMWWWWWWWWWFFFFFFFFFFWWWWWWWWWMFFFFFFFWWWFFFFF"
     ],
-    "Survival_20":[
+    "Survival_20": [
         "MMMMMFFF..WWF....MMMMMMF.............MMMMM......FFMMMWWWWWWW",
         "MMMMFF....WWF.1...MMMMFF..............MMFF..1....FFMMWWWWWWW",
         "MM4......WWWF.....4MMMF...............MFF.........FF...WWWWW",
@@ -3860,7 +4105,7 @@
         "WWWWWWWMMFF....1..FFMM......2.2.....FFMMMM...1.FWW....FFMMMM",
         "WWWWWWWMMMFF......MMMMM.............FMMMMMM....FWW..FFFMMMMM"
     ],
-    "Survival_21":[
+    "Survival_21": [
         "............T.............MMMM.MMM..........................",
         "..F.FF.FF.FF.FFDFF.FF.....M.FFFFM......FF.FF.FF.FF.FF.FFDF..",
         ".FF.FF.FF.FF.FF.FF.F......MM.4..MM....D.FDFF.FF.FF.FF.FF.FF.",
@@ -3922,7 +4167,255 @@
         "..F.FF.FF.FF.FF.FF.FF....D.MFFFF.M.....FF.FF.FF.FF.FF.FF.F..",
         "...............T..........MMM.MMMM.........................."
     ],
-    "Survival_3":[
+    "Survival_22": [
+        "CC..........FFT......FFFFFFFFFFFFFFMMMMFFFFFFFFFFFFWWWWWWWWW",
+        "C.......................FFFFFFFFFFFMMMFFFFFFFFFFFFFFWWWWWWWW",
+        "..4........................FFFFFMMMMMFFFF...FFFFFFFFFFFFWWWW",
+        "......WW..........1...........FFFMMMFFF.........FFFFFFFFFWWW",
+        ".....WWWWM.....................FFFFFFF............FFFFFFFWWW",
+        "F....WWMMM.....................FFFF.........Y......FFFFFFWWW",
+        "FF.....T...............4FFY...FFF.......1...Y4.....FFFFFMMWW",
+        "FF..............YY.....FFYY...FFMM..........YYYC....FFFFMMMW",
+        "F................YY.....YY....MMMM........2.........FFMMMMMM",
+        "..........MMFF....YYY........MMM........2..........MMMMMMMMM",
+        "..........MMMFF..............MMM......T...........MMMMMMM...",
+        "....1......MMMM..............MMM4...............FFFMMMM.....",
+        ".......2.....4...........CCWWWWWWYY...........MFFFFFM.......",
+        "...................C....YYWWWWWWWWY......MM..MMMFFFF........",
+        ".........2.......MMM....YWWWW4.WWWW....MMMM4.MMMMF......1...",
+        "..............FFMM.....................FFMMMMMM.............",
+        "...YFFF......FFMM......................FFFMMMM4.............",
+        "...YYYFF.....FMM4............CC.........FFFMMM......T......F",
+        "....4YYY.....FM.........................4FFMMM............FF",
+        ".......YYT...CM....YYY...................FFFMM............FF",
+        "...................YFF....................FFM............FFF",
+        "F........................WWW....WWW........F............FFFF",
+        "F......................WWWWWFF..WWWWW...............MFFFFFFF",
+        "FF....................WWWWFFFF...WWWWW..............MMFFFFFF",
+        "FFT...................WWNNFFFF....CMWW...............MMMF4FF",
+        "FF...................WWNNFFFF....FFMMWW..............FMMFFFF",
+        "FFF.........YWWY.....WWCFFFF.....FFFMWW......WW......FFMMMFF",
+        "FFF..1......YWW4......WFFFF......FFFCWW......WW.......FFMMMM",
+        "FFFF......YYYWWF......FFFF...44..............WW4...2..FFFFMM",
+        "FFFF........WWWF......FF....4MM4...........YYWWW.......FFFFF",
+        "FFFFF.......WWWYY...........4MM4....FF......FWWW....2...FFFF",
+        "MMFFFF......4WW..............44...FFFF......FWWYYY......FFFF",
+        "MMMMFF.......WW......WWCFFF......FFFFW......4WWY......1.TFFF",
+        "FFMMMFF......WW......WWMFFF.....FFFFCWW.....YWWY.........FFF",
+        "FFFFMMF..............WWMMFF....FFFFNNWW..................FFF",
+        "FF4FMMM...............WWMC....FFFFNNWW....................FF",
+        "FFFFFFMM..............WWWWW...FFFFWWWW....................FF",
+        "FFFFFFFM...............WWWWW..FFWWWWW......................F",
+        "FFFF............F........WWW....WWW........................F",
+        "FFF............MFF.....................YY...................",
+        "FFT...........MMFFF...................YYF....MC....YY.......",
+        "FF.....2......MMMFF4...................FF....MF.....YYY4....",
+        "F.............MMMFFF.........CC............4MMF.....FFYYY...",
+        ".....2.......4MMMMFFF......................MMFF......FFFY...",
+        ".............MMMMMMFF.....................MMFF..............",
+        "...1......FMMMM.4MMMM....WWWW.4WWWWY....MMM.................",
+        "........FFFFMMM..MM......YWWWWWWWWYY....C...................",
+        ".......MFFFFFM...........YYWWWWWWCC...........4.............",
+        ".....MMMMFFF...............4MMM..............MMMM......1...F",
+        "...MMMMMMM..................MMM..............FFMMM.........F",
+        "MMMMMMMMM...................MMM........YYY....FFMM........FF",
+        "MMMMMMFF..................MMMM....YY.....YY...............FF",
+        "WMMMFFFF....CYYY..........MMFF...YYFF.....YY...............F",
+        "WWMMFFFFF.....4Y...1.......FFF...YFF4...............T.......",
+        "WWWFFFFFF......Y.........FFFF............2........MMMWW.....",
+        "WWWFFFFFFF............FFFFFFF..............2......MWWWW.....",
+        "WWWFFFFFFFFF.........FFFMMMFFF...........1.........WWW......",
+        "WWWWFFFFFFFFFFFF...FFFFMMMMMFFFFF........................4..",
+        "WWWWWWWWFFFFFFFFFFFFFFMMMFFFFFFFFFFF.......................C",
+        "WWWWWWWWWFFFFFFFFFFFFMMMMFFFFFFFFFFFFFF.......FF..........CC"
+    ],
+    "Survival_23": [
+        "WWWWWWWWWWFF...........FXMM.......FFMMFF...............FCWWW",
+        "WWWWWWWWWWFF.....FFF...FMM...1.....FMMFF...............FF4WW",
+        "WWWWWWWWFFFF...CFFMM...FM4..2.2....F4MMF.....1..........FFFW",
+        "WWWWWWWWFFFF.1.MMMM4....T...WWWW...FFMMFF................FFC",
+        "WWWWWW4FFFF.................WWWW....FFM4F.................FF",
+        "WWWWWWFFFF...........................FMMT....CNNNNC.......FF",
+        "WWWWFFFFF.................................................FF",
+        "WWWWFFFF.............T....................................FF",
+        "WW4FFFF......CM.....FM......NNNN.........................FFM",
+        "WWFFFF......MMM....FFM......................MM4.........FFMM",
+        "FFFFF.............FFFMM...............FF....MWWFF......FFMMX",
+        "FFFF..............MFF4M..............FFFF...TWWWFF.....FMMXX",
+        "..................MFFFM....FFFFFF....FFFF....WWWWF.....TM4..",
+        "..................M.FFF..WWWFFFFWWW...FFC.....WWWW..........",
+        ".1.....FFFMM......MMFFF..WWW4FF4WWW............WWW.......2.2",
+        "2.2...FFFFFM.......MFF....WWWWWWWW..............WWM.......1.",
+        ".....FFFFFFF..............WWWWWWWW..............TMM.........",
+        ".....MMMM4FFF.............TMFFFFMT.....FFF..................",
+        "........MMMFF..........................MFFF.................",
+        "..........MMT...FFF....4...............MMFF.................",
+        "................FWW...MMM...............MMF...XXX...........",
+        "................CWW...MFF.........MM.....T....XX............",
+        "...FFNNNN.......WWW....FF....NNN..MF.........XX....NNNNFF...",
+        "...FFWWWT.......WWW............4..FFF..............TWWWFF...",
+        "...FFWWW........WW4................FFF4.............WWWFF...",
+        "...FFWWF........WW......FFMM........FFFX............FWWFF...",
+        "...XCWWF...YY...WWW....FFMMMCF.......FXX.......YY...FWWCX...",
+        "...XXWWF...FF...WWW...TXXXM4FF.................FF...FWWXX...",
+        "...4MWWF...FF...CWW......FFFFFF................FF...FWWM....",
+        "....MWW4...FF...FWW......FFFFFFF..........FF...FF...4WWM....",
+        "....MWW4...FF...FFF.........FFFFFFF......WWF...FF...4WWM....",
+        "....MWWF...FF................FFFFFF......WWC...FF...FWWM4...",
+        "...XXWWF...FF.................FF4MXXXT...WWW...FF...FWWXX...",
+        "...XCWWF...YY.......XXF.......FCMMMFF....WWW...YY...FWWCX...",
+        "...FFWWF............XFFF........MMFF......WW........FWWFF...",
+        "...FFWWW.............4FFF................4WW........WWWFF...",
+        "...FFWWWT..............FFF..4............WWW.......TWWWFF...",
+        "...FFNNNN....XX.........FM..NNN....FF....WWW.......NNNNFF...",
+        "............XX....T.....MM.........FFM...WWC................",
+        "...........XXX...FMM...............MMM...WWF................",
+        ".................FFMM...............4....FFF...TMM..........",
+        ".................FFFM..........................FFMMM........",
+        "..................FFF.....TMFFFFMT.............FFF4MMMM.....",
+        ".........MMT..............WWWWWWWW..............FFFFFFF.....",
+        ".1.......MWW..............WWWWWWWW....FFM.......MFFFFF......",
+        ".....2.2..WWW............WWW4FF4WWW..FFFMM.2.2..MMFFF.....1.",
+        "..........WWWW.....CFF...WWWFFFFWWW..FFF.M..................",
+        "..4MT.....FWWWW....FFFF....FFFFFF....MFFFM..................",
+        "XXMMF.....FFWWWT...FFFF..............M4FFM..............FFFF",
+        "XMMFF......FFWWM....FF...............MMFFF.............FFFFF",
+        "MMFF.........4MM......................MFF....MMM......FFFFWW",
+        "MFF.........................NNNN......MF.....MC......FFFF4WW",
+        "FF....................................T.............FFFFWWWW",
+        "FF.................................................FFFFFWWWW",
+        "FF.......CNNNNC....TMMF...........................FFFFWWWWWW",
+        "FF.................F4MFF....WWWW.................FFFF4WWWWWW",
+        "CFF................FFMMFF...WWWW...T....4MMMM.1.FFFFWWWWWWWW",
+        "WFFF..........1.....FMM4F.........4MF...MMFFC...FFFFWWWWWWWW",
+        "WW4FF...............FFMMF.....1...MMF...FFF.....FFWWWWWWWWWW",
+        "WWWCF...............FFMMFF.......MMXF...........FFWWWWWWWWWW"
+    ],
+    "Survival_24": [
+        "MMMMMC.............MMMMMMMMFFMMMMMFFF..FFFF..FFMMMMMM..FFFFF",
+        "MMM..................MMMMFFFF.YMMFFF....FFF..FFMMMMC.....4FF",
+        "MY4...................MMMFFF....................MM.........F",
+        "Y........NNN..1........MMFF.................................",
+        ".......................FFFF.......................2.2..1....",
+        "......................FFFF.......4FF....XC..................",
+        "....F..C.........C....FFF...YY..FFFF..XXXWWWWWFF............",
+        "...FFFXXXX......YY...XXX.........FF...WWWWWWWWFFF.........CC",
+        "....FFFXWWW4..........4M..............WWWWW..YNNN.......MMMM",
+        "........WWWW.........................WWW4...............XM..",
+        "........WWWW.........................WWW....................",
+        "........4WWWMM..............XXNNN......T....................",
+        "............MFF.....T.......MX..........................FF..",
+        "............MFF...................................CC...FFF..",
+        "...1.2.2....FF...................1.............FMMMMM..FF...",
+        ".............F................................FFM4..........",
+        "...................FFMM..............M......TFFFM...........",
+        ".....YC............FFFM...........FFMMM....FFFF.............",
+        "....XXXXXX..........FFMMM.....CMFFFFFMM.....FF.........X....",
+        ".........X..........FFF......YMMM..FFFMM..............XXX...",
+        "................CY...FF.....MMMM......................XX4...",
+        "..............XXXM.............................C......XX....",
+        "...............XM.............................YYYC....XX4...",
+        "......FF..44....................................C......XX...",
+        "...XXFFFF............Y.......CX4.........XX............XF...",
+        "...XXFF........FF...XX4.......XXXX......XX.............FFF..",
+        "...XFF........FFF...XXXXX.....X.......XXX.....1..2.2....FFF.",
+        "..........XX...FFF...................FFF.................FFF",
+        ".........CXX....F...................FFF..........NNN.....XFF",
+        "........MMM.............................................XXXX",
+        ".......................XXXX.......XNNN......F.............XX",
+        "..................CY....4XX.......Y4.......FFF..............",
+        "................XXXMFF......................FFFFM...........",
+        "......XXX....1.....FFF........................FMMMY.........",
+        "...FFFFFC.....................X.................MMWW........",
+        "...FFFFF...............YYC....XXXXXFF..XXXX.......WW........",
+        "...FF.................WWC.....XX..FFFFFFFMXY......WWWWWM....",
+        "..XFF.................WW...............FFFXX..44..WWWWWM....",
+        "..XFF.....T........WWWWW..................C...........CM4...",
+        "..XC..............XWWWWW...............................MM...",
+        ".......2.2.......TXWWW........CXX...........................",
+        ".................NNNN........XXXXX..........................",
+        "......44....M............T....X........T.....YNNNX..........",
+        "...........MM..............................FFFFFFX....T.....",
+        "...T.....MMMMM.................................FFXC.........",
+        "F.........MM.......FF.....1.....................FF......1...",
+        "FF................FFFF..............C4.....................F",
+        "MFF..............FFF................MMM...................FF",
+        "MFFFF..............................CMWW.....T............FFX",
+        "MMFFFF...............4MMMM....F...WWWWW..........4XX....FFXX",
+        "MMMMFFF...T........NNNMM.....FF...WWWWW..........XXX....FFXX",
+        "..MMMF.............C.........FFF..WW..............XXX....FXX",
+        "..............M...............FFFFWW......FF.......X......XX",
+        ".............MMM...........T...FFFWW.....CFF..............XX",
+        "............MMMM4................XNN....CXXX..2.2.........XX",
+        "....1.......FFMMM....T...........X4.....YX.................X",
+        "............FFFFF........................X...1...FF......4.X",
+        "F......T.......FF...............................FFFF....4...",
+        "FF4................XMFFFFXMFF..................FFFXXXXX.....",
+        "FFFF...............MMFFFFMMFFFMMC..............FFXXXXXXXX..."
+    ],
+    "Survival_25": [
+        "MMMMMMMMMFFFFT......FFTMMMMMMMMMMMMMMTFF.....FFFFMMMMMMMMMMM",
+        "MMMMMMMMMFFFF.......FFFFMMMFFFFFFMMMFFFF.......FFFFMMTFFFMMM",
+        "MMMMMFFFFFF.......1..FFFFMFFF..FFFMFFFF..1.............FFMMM",
+        "MMMMMFFFFF.............FFFFF.2.2.FFFFF..................FFFM",
+        "MMMMT........4.....T.....................................FFM",
+        "MMFF........MM.....MMY........................4...........FM",
+        "MMFF........MM....MMMMM......44.......YMM....MMMFFFFMMM...TM",
+        "MMFF...MM...........CC...............MMMM....MMMFFFFMMM...MM",
+        "MMFF...MM..........................MMMM..............4....MM",
+        "FFFF...4..................................................FM",
+        "FFF.....................NNNNN.............................FM",
+        "FF1.................FFFFFFFYYYY..........................1FF",
+        "FF........MMM.......FFFFFFF..CC......FFFFYY.....MMMMT.....FF",
+        "T.........MM......4.MMM..............FFFFMM4......MMMM.....F",
+        "..........T......TMMMMM..............YMMMMM........CMM......",
+        "................MMMMM................CYMMM..................",
+        "...............YMMMFF......................................T",
+        "F.....MM.......YYYYFF.........MMT.......................FFMM",
+        "FF....MM......................MMMT..........NNNNT.......FFMM",
+        "FF....YMMM....................FFMM..........NWWWW.....MMMMMM",
+        "MF......MMM.......FF....C.....FFMMMM........NWWWW......MMMMM",
+        "MMT...............FF....Y.................FFFWWWW.......MMMM",
+        "MMT...............MM....MY44..............FFFFFFF.......FFMM",
+        "MM.............TWWMM....MMMM............C..FFFFFFF......FFMM",
+        "MF............WWWWFFFFFFFFF....C........YY44.FFFMMMM.......T",
+        "FF.....4.....NWWWWFFFFFFFFF....YYY......MMMM...FMMMMM.......",
+        "FF....TMMT...NNNN.....WWWWW...............MM......TMMM......",
+        "F2.2..MMMMMFF...4.....WWWWWW...............MMM......4YM.2.2.",
+        "......MMMMFF.........NWWWT...........................M......",
+        "......TMMT...........NNNNN.........4CY....................1.",
+        ".1.....FF.............YC4.........NNNNN....................F",
+        ".......FF.........................TWWWN.......C............F",
+        ".................................WWWWW......4YY...MM.......F",
+        "F..........MMFFFFMM..............WWWWW.....NNNN...MMM.....FF",
+        "F..........MMFFFFMM.......YYY....FFFFFFFFFWWWWN....YMM....FF",
+        "T............FF..FF.........C....FFFFFFFFFWWWW......MM....FM",
+        "MFF..........FF44FF.............NNNNN...MMWWT............TMM",
+        "MFF...MMM....FF..FF..............44YN...MM...............TMM",
+        "MMM...TMM....MMFFFFMM..............C....FF................FM",
+        "MMM.....M....MMFFFFMM....MMMFF..........FF......CC........FF",
+        "MMM.......................MMFF..................NNNNN.....FF",
+        "MFF.......................CMMF.....................YY......F",
+        "MFF........................YMMM........FFYY.........YY.....F",
+        "T......................................FFMM................F",
+        "F................4MMMYC................MMMM4...............F",
+        "F......MMMWWWFFFFMMMMMT..............MMMMMT...............MM",
+        "F......MMMWWWFFFFMMFFFF..............MMM.......TM.........MM",
+        "F.......TMFFFFFFFYYFFFF.........CFFFFFFF.......MM.........FF",
+        "F.1......C................T....YYFFFFFFF.....MMMM........1FF",
+        "M........................MM....NNNNN................4......F",
+        "MMT......................YMM........................MMMC...F",
+        "MMT.2.2...................MMM........................MMM...F",
+        "M.........T....MMMMT..................CC..............MM...F",
+        "F.......MMM......MMM.................MMMMM........2.2.....FF",
+        "F.....4MMM........MMMM.......44.......YMM.....MMM.........FF",
+        "F....TMMY4..............................T......4MM........MM",
+        "FF.....................FFFFF....FFFFF.....................MM",
+        "FFF.........FF....1..FFFFMFFF..FFFMFFFF..1...............TMM",
+        "MMFF.......FFFF.....FFFFMMMFFFFFFMMMFFFF......FFFF...FFMMMMM",
+        "MMFFFF...FFFFFFFF...FFTMMMMMMMMMMMMMMTFF....FFFFFFFFFFFMMMMM"
+    ],
+    "Survival_3": [
         "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
         "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
         "FFFFFFFFFFFFFFFFF...M..1..M..4.4..M.212.M.......FFFFFFFFFFFF",
@@ -3984,7 +4477,7 @@
         "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
         "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
     ],
-    "Survival_4":[
+    "Survival_4": [
         "FFFFFFFFF..WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW.F",
         "FFFFFFFFFF.WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWFF",
         "FFFFFFFFFFBWWWW.FFFFFBWWWWWBFFFFFBF.WWWW..FFWWWWWFFWWWWWWWFF",
@@ -4046,7 +4539,7 @@
         "FFFFFFFFFFFFFFFFFFFFF..FFFFFFFFFFFF...FFFFFFFFFF...FFFFFFFFF",
         "FFFFFFFFFFFFFFFFFFFFF..FFFFFFFFFFFF...FFFFFFFFFF...FFFFFFFFF"
     ],
-    "Survival_5":[
+    "Survival_5": [
         "FFFFWWWWWFFFFFFFFFFFFFFFFFMMMMMMMMFFFFFFFFFFFFFFFMMMMMMMMFFF",
         "FFFFFWWWWFF........FFFF..FFMMMMMMFF..FFFFD......FFMMMMB.FFFF",
         "FFF4..WWNF..........FF.B..FFMMMMFF....FF.......D.....T..4FFF",
@@ -4108,7 +4601,7 @@
         "FFFFFFMMMM.........FFFF..FFMMMMMMFF..FFFF.........MMM...FFFF",
         "FFFFFFMMMMMFFFFFFFFFFFFFFFMMMMMMMMFFFFFFFFFFFFFFFMMMMMFFFFFF"
     ],
-    "Survival_6":[
+    "Survival_6": [
         "MMMMMMM..MMMMMMMMMMMMMMMMMM..MMMMMMM..MMMMMMMMMMMMMMMMMMMMMM",
         "MMMMMMM.2MMMMMMMMMMMMMMMMMM..MMMMMMM..MMMMMMMMMMMMMMMMMMMMMM",
         "MMMMMMM.1MMMMMMMM.......MMM.1MMMMMMM.1MMMMMMMMMMMMM.......MM",
@@ -4170,7 +4663,7 @@
         "MMMMMMMM1.MMMMMMMMMMMMMMMM1.MMMMMMMMMMM1.MMMM.......MMMMMMMM",
         "MMMMMMMM2.MMMMMMMMMMMMMMMM..MMMMMMMMMMM..MMMMMMMMMMMMMMMMMMM"
     ],
-    "Survival_7":[
+    "Survival_7": [
         "....................................MM......................",
         "....................................MM......................",
         "...........MMFF.....................MM......................",
@@ -4232,7 +4725,7 @@
         ".............................MM.............................",
         ".............................MM............................."
     ],
-    "Survival_8":[
+    "Survival_8": [
         "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
         "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
         "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
@@ -4294,7 +4787,7 @@
         "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
         "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
     ],
-    "Training":[
+    "Training": [
         ".................",
         "....2.2.2.2.2....",
         ".................",
@@ -4314,9 +4807,9 @@
         ".................",
         ".................",
         "............M....",
-        "............M....",
-        "............M....",
-        "............M....",
+        "RRR.........M....",
+        "RRR.........M....",
+        "RRR.........M....",
         "MMMMMMM...MMMMMMM",
         ".................",
         ".................",
@@ -4329,7 +4822,7 @@
         ".................",
         "................."
     ],
-    "Tutorial":[
+    "Tutorial": [
         "...............B.",
         ".................",
         ".................",
@@ -4364,7 +4857,7 @@
         "RR...M.....M.....",
         ".....MC.1.CM....."
     ],
-    "Wanted_1":[
+    "Wanted_1": [
         "...RR...2.2.2........",
         "...RR...........RR...",
         "................RR...",
@@ -4399,7 +4892,7 @@
         "...RR...........RR...",
         "........1.1.1...RR..."
     ],
-    "Wanted_10":[
+    "Wanted_10": [
         "........2.2.2........",
         ".....................",
         "...T.............T...",
@@ -4434,7 +4927,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Wanted_11":[
+    "Wanted_11": [
         "...MMM.........MMM...",
         "...MM...........MM...",
         "..MMM...2.2.2...MMM..",
@@ -4469,7 +4962,7 @@
         "...MM...........MM...",
         "...MMM.........MMM..."
     ],
-    "Wanted_12":[
+    "Wanted_12": [
         "........2.2.2........",
         "..RR...RR...RR...RR..",
         "..RR...RR...RR...RR..",
@@ -4504,7 +4997,7 @@
         "..RR...RR...RR...RR..",
         "........1.1.1........"
     ],
-    "Wanted_13":[
+    "Wanted_13": [
         "MR......2.2.2....RRWW",
         "MR...............RRWW",
         "MR...............RWWW",
@@ -4539,7 +5032,7 @@
         "WWRR...............RM",
         "WWRR....1.1.1......RM"
     ],
-    "Wanted_14":[
+    "Wanted_14": [
         "........2.2.2........",
         ".RRR.............RRR.",
         ".RRR.............RRR.",
@@ -4574,7 +5067,7 @@
         ".RRR.............RRR.",
         "........1.1.1........"
     ],
-    "Wanted_15":[
+    "Wanted_15": [
         "RRRRRX..2.2.2..XRRRRR",
         "RRRRRX.........XRRRRR",
         "RRRR.............RRRR",
@@ -4609,7 +5102,7 @@
         "RRRRRX.........XRRRRR",
         "RRRRRX..1.1.1..XRRRRR"
     ],
-    "Wanted_16":[
+    "Wanted_16": [
         "RRRR....2.2.2......RR",
         "RR...............RRRR",
         "................RRR..",
@@ -4644,7 +5137,42 @@
         "RRRR...............RR",
         "RR......1.1.1....RRRR"
     ],
-    "Wanted_2":[
+    "Wanted_17": [
+        "RRRR....2.2.2..RRRMMM",
+        "RRR.............RRRMM",
+        "R...............RRRRR",
+        "...BNN............RRR",
+        "..WWWW...NNN.........",
+        "..WWWW..........XXB..",
+        "..TWWWW..........XX..",
+        "...WWWW......B....X..",
+        "..........RRMMR......",
+        ".........RRRTRRR.....",
+        "T......RRRR..RRR...RR",
+        ".....BMRRRR..RRWWNRRR",
+        "......MRR.....RWWNRRR",
+        "......MMM.....RWWNRRR",
+        "......M..........RRRR",
+        "..X...M..........RRRR",
+        "RRX...............XRR",
+        "RRRR..........M...X..",
+        "RRRR..........M......",
+        "RRRNWWR.....MMM......",
+        "RRRNWWR.....RRM......",
+        "RRRNWWRR..RRRRMB.....",
+        "RR...RRR..RRRR......T",
+        ".....RRRTRRR.........",
+        "......RMMRR..........",
+        "..X....B......WWWW...",
+        "..XX..........WWWWT..",
+        "..BXX..........WWWW..",
+        ".........NNN...WWWW..",
+        "RRR............NNB...",
+        "RRRRR...............R",
+        "MMRRR.............RRR",
+        "MMMRRR..1.1.1....RRRR"
+    ],
+    "Wanted_2": [
         "...RR...2.2.2........",
         "...RR...........RR...",
         "............D...RR...",
@@ -4679,7 +5207,7 @@
         "...RR...........RR...",
         "........1.1.1...RR..."
     ],
-    "Wanted_3":[
+    "Wanted_3": [
         "..RR....2.2.2........",
         "..RR.............RR..",
         ".................RR..",
@@ -4714,7 +5242,7 @@
         "..RR.............RR..",
         "........1.1.1....RR.."
     ],
-    "Wanted_6":[
+    "Wanted_6": [
         "FFFFFFF.2.2.2.FFFFFFF",
         "FFFFFFF.......FFFFFFF",
         "FFFFFFFFFFFFFFFFFFFFF",
@@ -4749,7 +5277,7 @@
         "FFFFFFF.......FFFFFFF",
         "FFFFFFF.1.1.1.FFFFFFF"
     ],
-    "Wanted_7":[
+    "Wanted_7": [
         "........2.2.2........",
         ".....................",
         ".................RR..",
@@ -4784,7 +5312,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Wanted_8":[
+    "Wanted_8": [
         "........2.2.2........",
         ".....................",
         "..YY.................",
@@ -4819,7 +5347,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "Wanted_9":[
+    "Wanted_9": [
         "........2.2.2........",
         ".....................",
         "...T.............T...",
@@ -4854,7 +5382,7 @@
         ".....................",
         "........1.1.1........"
     ],
-    "end":[
+    "end": [
         null
     ]
 }
